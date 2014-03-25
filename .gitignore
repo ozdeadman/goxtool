@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 *.log
 *.ini
 *.pyc
 *.swp
 .ropeproject
 _*
+=======
+*.bak
+>>>>>>> upstream/gh-pages
